@@ -1,0 +1,11 @@
+{
+    "name": "webgriffe/phpstan-dist",
+    "description": "PHPStan phar distribution for Webgriffe projects",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1.0"
+    },
+    "bin": [
+        "phpstan"
+    ]
+}
